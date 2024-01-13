@@ -1,5 +1,4 @@
 # Find faces in picture
-# https://github.com/ageitgey/face_recognition/blob/master/examples/find_faces_in_picture.py
 
 from PIL import Image
 import face_recognition
